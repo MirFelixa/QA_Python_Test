@@ -1,2 +1,2 @@
-# QA_Python_Test
+# QA Python Test
 Портфолио написания моих авто-тестов на Python
